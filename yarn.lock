@@ -945,15 +945,14 @@ capture-exit@^2.0.0:
   dependencies:
     rsvp "^4.8.4"
 
-casbin@4.7.2:
-  version "4.7.2"
-  resolved "https://registry.yarnpkg.com/casbin/-/casbin-4.7.2.tgz#1efaf531658b63156a19e1c1802606887505f51f"
-  integrity sha512-VMihlMqjXPlsL/K/LYc61TG5ee5+ik6WQ9HxgqurzroNPpwHfT5fBPGQIvI349WUWsdZ7Rj1UxyI6nn2FHxyNw==
+casbin@5.0.6:
+  version "5.0.6"
+  resolved "https://registry.yarnpkg.com/casbin/-/casbin-5.0.6.tgz#75a35b13443cb49abc31eb9c3765b383889a0134"
+  integrity sha512-KvwFTXhYOt+1np90I51QtbagparoVrzJT5m/IvqOBfQUd+SQ5LmAbqpaVcgWv7fx5/+jZ9x5NTc9glARODCL0A==
   dependencies:
     await-lock "^2.0.1"
     expression-eval "^2.0.0"
     ip "^1.1.5"
-    lodash "^4.17.15"
     micromatch "^4.0.2"
 
 caseless@~0.12.0:
